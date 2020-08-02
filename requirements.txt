@@ -11,6 +11,8 @@ decorator==4.4.2
 defusedxml==0.6.0
 dnspython==2.0.0
 entrypoints==0.3
+ibm-cloud-sdk-core==1.5.1
+ibm-watson==4.5.0
 idna==2.10
 importlib-metadata==1.7.0
 ipykernel==5.3.4
@@ -48,6 +50,7 @@ prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pycparser==2.20
 Pygments==2.6.1
+PyJWT==1.7.1
 pymongo==3.11.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
@@ -74,6 +77,7 @@ tweepy==3.9.0
 urllib3==1.25.10
 wcwidth==0.2.5
 webencodings==0.5.1
+websocket-client==0.48.0
 widgetsnbextension==3.5.1
 wordcloud==1.7.0
 zipp==3.1.0
