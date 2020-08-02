@@ -1,5 +1,5 @@
 # d4p-hackathon-santander-datachallenge
-Hackathon Santander Data Challenge organizado pela [Shawee](https://shawee.io/) em 01/Ago/2020 - 02/Ago/2020.
+[Hackathon Santander Data Challenge](https://www.datachallenge.com.br/) organizado pela [Shawee](https://shawee.io/) em 01/Ago/2020 - 02/Ago/2020.
 
 ## ETL (Crawler Twitter)
 
