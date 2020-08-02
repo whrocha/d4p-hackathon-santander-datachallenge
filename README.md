@@ -8,3 +8,7 @@ O arquivo `tweets_extracts.py` contém o codigo desenvolvido para realizar a bus
 ## Análise
 
 O notebook `hackathon-data-challenge.ipynb` contém a análise dos tweets e o direcionamento dos leads para o empreendedor.
+
+## Banco de dados Tweets
+
+O arquivo `hackathon-santander-twitter-db` contem os tweets coletados ate o dia 02-Ago-2020 19h30 UTC-3
