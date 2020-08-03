@@ -20,3 +20,6 @@ O arquivo `hackathon-santander-twitter-db` contém os tweets coletados até o di
 O crawler desenvolvido fica pesquisando através do stream da biblioteca [pymongo](https://pymongo.readthedocs.io/en/stable/), onde os dados são extraídos de forma live, ou seja, um tweet é feito o crawler já captura esse tweet, o tweet capturado é então enviado para o MongoDB gerenciado pelo serviço [Atlas](https://www.mongodb.com/cloud/atlas), uma soluçao altamente escalável da própria fabricante da base de dados.
 
 A análise de sentimento é realizada atráves do IBM Watson Sentiment Analysis, mais detalhes desse serviço pode ser encontrado em [IBM Watson](https://cloud.ibm.com/apidocs/natural-language-understanding?code=python#sentiment).
+
+[Link para o prótotipo](https://github.com/lima-pedro/hackathon-santander)
+
