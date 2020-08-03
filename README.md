@@ -1,6 +1,8 @@
 # d4p-hackathon-santander-datachallenge
 [Hackathon Santander Data Challenge](https://www.datachallenge.com.br/) organizado pela [Shawee](https://shawee.io/) em 01/Ago/2020 - 02/Ago/2020.
 
+Projeto apresentado: `SMB Social Media Leads`
+
 ## ETL (Crawler Twitter)
 
 O arquivo `tweets_extracts.py` contém o codigo desenvolvido para realizar a busca dos tweets que serão utilizados para direcionar as análises de leads.
