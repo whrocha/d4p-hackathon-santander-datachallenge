@@ -3,6 +3,8 @@
 
 Projeto apresentado: `SMB Social Media Leads`
 
+Vídeo do pitch: [Pitch D4P - SMG Social Media Leads](https://www.youtube.com/watch?v=HgUV5aMMwnE&feature=youtu.be)
+
 ## ETL (Crawler Twitter)
 
 O arquivo `tweets_extracts.py` contém o codigo desenvolvido para realizar a busca dos tweets que serão utilizados para direcionar as análises de leads.
