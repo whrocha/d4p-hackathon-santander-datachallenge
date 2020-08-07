@@ -4,6 +4,9 @@
 Projeto apresentado: `SMB Social Media Leads`
 
 Vídeo do pitch: [Pitch D4P - SMG Social Media Leads](https://www.youtube.com/watch?v=HgUV5aMMwnE&feature=youtu.be)
+## Resultado
+https://www.datachallenge.com.br/resultado/
+#4 Time 19 - SMB Social Media Leads.
 
 ## ETL (Crawler Twitter)
 
